@@ -1,0 +1,2 @@
+django-extensions==2.1.4
+ipython==7.1.1
